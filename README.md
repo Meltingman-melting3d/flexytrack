@@ -40,7 +40,7 @@
 
 If you find a bug or need help, please open an issue here:
 
-https://github.com/YOUR_USERNAME/FlexyTrack/issues
+(https://github.com/Meltingman-melting3d/flexytrack/issues) 
 
 ## Website
 
